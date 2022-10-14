@@ -1,0 +1,8 @@
+text:
+	questions
+	graphics
+interactive:
+	map
+	change in pollution
+	contry leaderboard
+
